@@ -1,3 +1,5 @@
+/*Graphing array element value with histograph*/
+
 #include <stdio.h>
 #include <stddef.h>
 #define SIZE 5
@@ -22,4 +24,3 @@ int main(void)
         puts(""); // end a histogram bar with a new line
     }
 }
-

@@ -1,3 +1,5 @@
+/*Using loop to set the array's element value*/
+
 //#include <stddef.h>
 #include <stdio.h>
 

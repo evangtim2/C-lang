@@ -1,3 +1,4 @@
+/* with a symbolic constant and Initialize array with calculation*/
 #include <stdio.h>
 #define SIZE 5 // maximum size of array
 
@@ -18,4 +19,3 @@ int main(void)
         printf("%7zu%13d\n", j, s[j]);
     }
 }
-
